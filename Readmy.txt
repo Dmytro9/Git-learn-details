@@ -4,4 +4,8 @@ and text
 
 one
 
+<<<<<<< HEAD
 dog
+=======
+csdcsdcsdc
+>>>>>>> master
