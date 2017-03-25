@@ -13,7 +13,20 @@ csdcsdcsdc
 
 from cat
 
+<<<<<<< HEAD
 ffhg
 fghfgh
 fhgfhgf
 sdfsdfs
+=======
+
+
+from cat
+
+from cat
+from cat
+from cat
+from cat
+from cat
+from cat
+>>>>>>> cat
