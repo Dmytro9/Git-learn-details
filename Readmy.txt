@@ -29,4 +29,14 @@ from cat
 from cat
 from cat
 from cat
+<<<<<<< HEAD
+>>>>>>> cat
+=======
+
+
+from cat news
+from cat news
+from cat news
+from cat news
+from cat news
 >>>>>>> cat
